@@ -1,17 +1,3 @@
-/********************************************************************************
-* WEB422 – Assignment 1
-*
-* I declare that this assignment is my own work in accordance with Seneca's
-* Academic Integrity Policy:
-*
-* https://www.senecapolytechnic.ca/about/policies/academic-integrity-policy.html
-*
-* Name: Lap Chi Wong Student ID: 112867221 Date: 16 Jan 2024
-*
-* Published URL: https://adorable-foal-boot.cyclic.app
-*
-********************************************************************************/
-
 const express = require("express");
 const cors = require("cors");
 const ListingsDB = require("./modules/listingsDB");
